@@ -14,6 +14,7 @@ I have landed a couple of projects in that field. Some were unpaid work for pers
 
 ### I’m currently learning 🎓
 I have been tinkering with machine learning and Tensorflow in particular, but i can't yet say, that i am comfortable in that field. I have read quite some theory behind it but I need some hands on projects in order to perform well on such tasks  
+I recently completed a course  on [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/ZZ4PE8K8BXWW)
 
 ### My side projects ✈️ 
 __RC modeling__  
