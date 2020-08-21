@@ -10,10 +10,10 @@ I have some experiance with data analysis with tools like pandas, numpy and matp
 
 ### Work / professional experience 💼
 I worked as a freelancer. My main strength is data scrapping and gathering followed by proccessing and data cleaning.
-I have landed a couple of projects in that field. Some were unpaid work for personal projects and some were paid jobs [paid jobs](https://www.upwork.com/freelancers/~01c1940c109bd729f8). I feel most comfortable in this field due to my web developement knowledge and knowledge in data preprocessing.
+I have landed a couple of projects in that field. Some were unpaid work for personal projects and some were [paid jobs](https://www.upwork.com/freelancers/~01c1940c109bd729f8). I feel most comfortable in this field due to my web developement knowledge and knowledge in data preprocessing.
 
 ### I’m currently learning 🎓
-I have been tinkering with machine learning and Tensorflow in particular, but i can't yet say, that i am comfortable in that field. I have read quite some theory behind it but I need some hands on projects in order to perform well on such tasks  
+I have been tinkering with machine learning and Tensorflow in particular, but I can't yet say, that i am comfortable in that field. I have read quite some theory behind it but I need some hands on projects in order to perform well on such tasks  
 I recently completed a course  on [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/ZZ4PE8K8BXWW)
 
 ### My side projects ✈️ 
